@@ -1,1 +1,1 @@
-# Special-year-detection
+# Summer python training
